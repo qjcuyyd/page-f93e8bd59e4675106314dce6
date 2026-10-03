@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6287f736c4e2757f4047faf2",
+  "owner": "qjcuyyd",
+  "repo": "page-f93e8bd59e4675106314dce6",
+  "title": "Bear",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f93e8bd59e4675106314dce6",
+      "a": "Bear",
+      "b": "",
+      "entity": "Bear",
+      "brand": "Bear",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6e6bbcbf2c44dbca004cd0dbd75cb771819d6f67df9a102654e5ecae82c02390",
+      "content": {
+        "keyword1": "Bear",
+        "keyword2": "",
+        "primary_entity": "Bear",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Bear 提供稳定高速的官方机场与 VPN 服务，覆盖全球节点与流媒体解锁，支持多端客户端下载及一键订阅配置，适合办公、学习与娱乐加速。",
+          "AI_DESCRIPTION": "Bear 提供稳定高速的官方机场与 VPN 服务，覆盖全球节点与流媒体解锁，支持多端客户端下载及一键订阅配置，适合办公、学习与娱乐加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{overflow-x:hidden}body{margin:0;background:#071422;color:#e6f0f8;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.7}a{color:#2dd4bf;text-decoration:none}header{background:#05101c;border-bottom:1px solid #16324d;padding:10px 0}.wrap{width:100%;max-width:680px;margin:0 auto;padding:0 14px}.nav{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:14px}h1{font-size:1.55rem;line-height:1.3;color:#fff;margin:18px 0 10px}.lead{color:#b6c9d9;margin:0 0 16px}h2{font-size:1.22rem;color:#5eead4;margin:26px 0 10px;padding-bottom:4px;border-bottom:1px solid #1a3d5c}h3{font-size:1.02rem;color:#7dd3fc;margin:14px 0 6px}.cards{display:flex;flex-direction:column;gap:10px}@media(min-width:540px){.cards{flex-direction:row;flex-wrap:wrap}.card{flex:1 1 28%}}.card{background:#0e2438;border:1px solid #1c4b6e;border-radius:8px;padding:12px 14px;min-width:0}.card.rec{border-color:#2dd4bf;background:#0f2c44}.tag{display:inline-block;background:#2dd4bf;color:#042f2e;font-size:12px;font-weight:700;padding:1px 6px;border-radius:4px;margin-bottom:6px}.price{font-size:1.25rem;font-weight:700;color:#5eead4}.annual{font-size:13px;color:#94a3b8}.card ul{margin:8px 0 0;padding-left:18px;font-size:14px;color:#d1dce6}.step{background:#0e2438;border-radius:8px;padding:10px 12px;margin:8px 0;border-left:3px solid #22d3ee}details{background:#0e2438;border:1px solid #1c4b6e;border-radius:6px;padding:8px 12px;margin:8px 0}summary{font-weight:600;color:#f0f9ff}details p{margin:8px 0 4px;color:#c5d4e0;font-size:15px}.adbox{background:#0c2a40;border:1px dashed #2dd4bf;border-radius:8px;padding:12px;margin:16px 0;color:#a7f3d0;font-size:14px}.links{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:14px}footer{margin-top:28px;padding:16px 0 28px;border-top:1px solid #16324d;color:#7d93a8;font-size:13px}.note{font-size:14px;color:#93c5fd}ul.plain{padding-left:18px}p,li{overflow-wrap:break-word}</style><header><div class=\"wrap\"><nav class=\"nav\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#guide\">配置流程</a><a href=\"#scenes\">使用场景</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#about\">官方</a></nav></div></header><main class=\"wrap\"><h1>Bear 高速机场与 VPN 网络加速官网</h1><p class=\"lead\" id=\"intro\">Bear 是面向个人与团队的官方机场订阅与 VPN 网络加速服务。通过加密通道与多区域节点，帮助稳定访问国际互联网、解锁流媒体并优化游戏与办公链路。本站为 Bear 官方网站，提供套餐说明、配置流程与客户端下载指引。</p><h2>为什么选择 Bear</h2><p>Bear 以机场订阅为核心：一次导入，多端同步，节点可按延迟与用途切换。线路包含常规中转与 IPLC 专线，旗舰与团队套餐强调原生流媒体与游戏加速。官方身份清晰，订阅、客户端说明与售后均在本官网办理，避免来路不明的安装包。</p><ul class=\"plain\"><li>亚太与欧美节点池，按套餐开放普通线路或 VIP 高带宽节点</li><li>支持 Clash 系、Shadowrocket、Surge 等常见客户端导入订阅</li><li>按月流量计费，年付更优惠，设备数按套餐上限同时在线</li></ul><h2 id=\"plans\">套餐与机场订阅</h2><p class=\"note\">以下为官网公示套餐，流量按实际转发统计，次月重置。年付价格以结算页为准。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card rec\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><h2 id=\"guide\">配置流程</h2><p>Bear 强调可复现的配置流程：先拿到订阅，再装客户端，最后导入并选线。按下列步骤操作即可完成首次加速。</p><div class=\"step\"><h3>第一步：在官网获取订阅</h3><p>打开 Bear 官方网站选择套餐完成开通，进入账户中心复制订阅链接（Clash / 通用订阅）。请妥善保存，不要把链接发到公开群组。</p></div><div class=\"step\"><h3>第二步：下载对应客户端</h3><p>根据系统选择客户端：Windows 与 Android 推荐 Clash 系；macOS 可用 Clash 或 Surge；iOS 使用 App Store 中的 Shadowrocket 等工具。安装包说明见下方<a href=\"#download\">客户端下载</a>专区，只认本官网指引。</p></div><div class=\"step\"><h3>第三步：导入订阅并更新节点</h3><p>在客户端「订阅 / Profiles」中粘贴链接，保存后手动更新一次。成功后会出现香港、新加坡、日本、美国等分组节点，延迟测试可帮助挑选当前最优线路。</p></div><div class=\"step\"><h3>第四步：选择规则并连接</h3><p>日常建议「规则模式」：国内直连、境外走代理，减少无谓消耗。需要全局时再切换。连接后浏览器访问国际站点验证；流媒体请选用标注原生解锁的节点。</p></div><div class=\"step\"><h3>第五步：多设备同步与分流</h3><p>同一订阅可导入多台设备，注意套餐同时在线上限。团队版可配合定制路由，把办公域名与游戏端口单独走 IPLC。流量将尽时升级套餐或等待月度重置。</p></div><h2 id=\"scenes\">使用场景</h2><h3>跨境办公与协作</h3><p>访问代码托管、设计稿、会议与文档站点时，选择稳定中转或专线，降低丢包。团队版适合多人共用与定制分流。</p><h3>学习与资料检索</h3><p>高校文献、公开课与开发者文档走境外节点更顺畅。基础版即可覆盖轻度检索，持续使用可考虑旗舰版流量。</p><h3>流媒体与内容浏览</h3><p>旗舰版强调全节点原生解锁，适合影音平台。若某一线路失败，切换同区域其他节点即可，不必反复改客户端。</p><h3>游戏与实时通话</h3><p>IPLC 专线用于降低绕路时延。选离你或服务器更近的区域，避免用流媒体节点打游戏。通话类应用同样建议低延迟线路。</p><h2 id=\"download\">客户端下载与官网下载说明</h2><p>Bear 不捆绑来路不明的安装包。请在本官网阅读版本说明后，到系统官方商店或项目发布页获取客户端，再用订阅链接导入。以下为推荐组合：</p><ul class=\"plain\"><li>Windows：Clash Verge / Clash Meta 内核客户端，导入订阅后开启 TUN 可接管系统流量</li><li>macOS：Clash 系或 Surge，按年付用户可搭配更精细的分流规则</li><li>Android：Clash Meta for Android，后台省电与分应用代理较成熟</li><li>iOS：在 App Store 搜索 Shadowrocket 等工具，手动添加订阅 URL</li><li>路由器 / 软路由：使用订阅定时更新，团队版更适合常开网关</li></ul><p class=\"note\">官方下载口径：以本页与账户中心公告为准。若第三方自称「Bear 加速器破解版」，请忽略。</p><h2>节点与线路说明</h2><p>节点覆盖香港、新加坡、日本、韩国、美国、德国等常用区域。普通线路适合网页与轻量工具；旗舰与团队开放 IPLC 游戏优化及 VIP 高带宽。晚高峰以专线更稳。流媒体解锁随上游 IP 调整，官网会在账户公告同步变更。</p><h2 id=\"faq\">常见问题</h2><details><summary>Bear 机场和单一 VPN 有什么不同？</summary><p>Bear 采用机场订阅：一份链接对应一组可切换节点与协议，可在 Clash 等客户端里按延迟、解锁或游戏需求换线。单一 VPN 往往只有固定出口。计费按套餐流量，年付可降低每月成本。</p></details><details><summary>第一次应该怎样完成配置？</summary><p>开通套餐后复制订阅，安装系统对应客户端，粘贴链接并更新节点，用规则模式连接。完整顺序见本页「配置流程」。若导入失败，检查链接是否完整、客户端是否支持该订阅格式。</p></details><details><summary>客户端要在哪里下载才算官方？</summary><p>以 Bear 官方网站的客户端下载说明为准。iOS 只走 App Store；桌面与安卓使用主流开源 Clash 系客户端。不要安装来路不明的「一键加速包」。本站只提供订阅与教程，不通过即时通讯私发 exe。</p></details><details><summary>流量如何计算，用完会怎样？</summary><p>按实际转发流量计量，不含未走代理的国内直连。基础版每月 100GB、旗舰版 300GB、团队版 1000GB，周期结束重置。用尽后加速暂停，可升级套餐或等待下个周期。</p></details><details><summary>能否解锁常见流媒体或在线服务？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁方向，覆盖常见影音站点；部分专线也适合需要较干净出口的在线工具。若某节点失效，换同区域其他线路。可用性随线路更新，以实际连接为准。</p></details><details><summary>设备数量超了怎么办？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出时下线闲置设备或升级。订阅本身可多端导入，限制的是并发连接数而非安装次数。</p></details><details><summary>如何联系支持？</summary><p>旗舰版含 7x24 优先工单，团队版另有专属客户经理。通过官网账户中心提交即可。请说明系统、客户端版本与订阅类型，便于快速排查。</p></details><h2 id=\"about\">官方身份与使用须知</h2><p>本页面为 Bear 官方网站信息页，用于介绍机场订阅、网络加速器能力、配置流程与客户端下载途径。请通过官网账户完成付费与续费。使用时应遵守所在地区与目标网站的规定，勿将服务用于未授权的网络攻击或违法活动。</p><div class=\"adbox\" id=\"ads\">广告位：Bear 官网合作展示位。欢迎网络工具、云服务与内容平台洽谈文字合作，联系路径见账户中心「商务」。本模块为展示说明，不含第三方脚本。</div><h2>友情链接</h2><div class=\"links\"><a href=\"#\">网络加速指南</a><a href=\"#\">客户端导入教程</a><a href=\"#\">节点延迟说明</a><a href=\"#\">分流规则示例</a><a href=\"#\">团队版路由建议</a></div><h2 id=\"sitemap\">网站地图</h2><div class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐订阅</a><a href=\"#guide\">配置流程</a><a href=\"#scenes\">使用场景</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#about\">官方说明</a><a href=\"#ads\">合作广告</a></div><footer><p>© Bear 官方网站 · 机场订阅与 VPN 网络加速服务 · 保留所有权利</p><p><a href=\"#about\">使用须知</a> · <a href=\"#sitemap\">网站地图</a> · <a href=\"#download\">官网下载</a></p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "c30e5ac1c4b7030e6a3d7e5b6ca45d512a0ed963621b26499584f89f0beffb36",
+          "seo": {
+            "title": "Bear 官方网站 - 机场订阅、VPN 网络加速器与客户端下载",
+            "keywords": "Bear,Bear VPN,Bear机场,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,IPLC专线",
+            "description": "Bear 提供稳定高速的官方机场与 VPN 服务，覆盖全球节点与流媒体解锁，支持多端客户端下载及一键订阅配置，适合办公、学习与娱乐加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cfhxz.cn",
+    "host": "p-bf41840425.cfhxz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cfhxz.cn",
+      "url": "https://cfhxz.cn/",
+      "label": "YaHaHa",
+      "apex": "cfhxz.cn",
+      "kind": null,
+      "identity": "ybepvqmnk/page-fbcd4533c82f516b4a10ac1e"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e30653a1041f19d6c829415065619186c53286e4bfb5d6e1b47f4a0ae95dacdb",
+    "sitemap.xml": "3c63004d08a0be922676bcf51475d2e370d6faf3c57eabdae713c83b5659fcde",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e5fd946f1dbbd5a94ef77a048d53336327d031401e14c6847bb03611fe541be",
+    "robots.txt": "52a243a481039de4686b72c3e34d2791690ff3847beb87ddc412c015bd62bb66",
+    "22ae9b4a1967d3af82018b311e5fda28.txt": "38a04fb14450334a374c5efd10f688da954f4f0baf5e13b600b7bd8069ecaa7c"
+  },
+  "revision": "905d2d67e82d87ca00f15587b33fdfef3f282dafa0c73f895d4619b264a3514f"
+}
